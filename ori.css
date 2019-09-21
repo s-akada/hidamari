@@ -1,0 +1,14 @@
+.header {
+	background-image: url(img/01.png);
+  	width: 1068px;
+  	padding: 0 15px;
+  	margin: 0 auto;
+  	height: 150px;
+	border-bottom: groove 8px grey;
+	border-top: ridge 8px grey;
+}
+.header:hover{
+	background-image: url(img/mo1.jpg);
+    transition: 2.5s;
+}
+span {
